@@ -11,7 +11,7 @@ public class Main {
         c[5] = new Lutador("Nerdaart", "Eua", 1.81f, 105.9f, 30, 12, 2, 4);
 
         Luta UEC01 = new Luta();
-        UEC01.marcarLuta(c[0], c[1]);
+        UEC01.marcarLuta(c[1], c[1]);
         UEC01.Lutar();
 
 
